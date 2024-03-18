@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/statnett/k3a-prompt-login-module/compare/v1.1.1...v1.1.2) (2024-03-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.apache.kafka:kafka-clients to v3.7.0 ([#15](https://github.com/statnett/k3a-prompt-login-module/issues/15)) ([4522eee](https://github.com/statnett/k3a-prompt-login-module/commit/4522eee5af013b84f1d952d9c7f9531f317b4bfc))
+
 ## [1.1.1](https://github.com/statnett/k3a-prompt-login-module/compare/v1.1.0...v1.1.1) (2023-12-19)
 
 
