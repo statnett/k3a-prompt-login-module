@@ -5,7 +5,7 @@
     <groupId>io.statnett.k3a</groupId>
     <artifactId>k3a-prompt-login-module</artifactId>
     <packaging>jar</packaging>
-    <version>1.1.2-SNAPSHOT</version>
+    <version>1.1.2</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
     <description>A JAAS LoginModule intended for use with Kafka clients, asking for the user's password</description>
