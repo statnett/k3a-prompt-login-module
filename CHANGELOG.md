@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.5](https://github.com/statnett/k3a-prompt-login-module/compare/v1.1.4...v1.1.5) (2025-10-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.apache.kafka:kafka-clients to v4.1.0 ([#53](https://github.com/statnett/k3a-prompt-login-module/issues/53)) ([a458a9b](https://github.com/statnett/k3a-prompt-login-module/commit/a458a9bc8672682b80341abecde51bfdf3ef2dc3))
+* do not display dialog box when both username and password are known ([#61](https://github.com/statnett/k3a-prompt-login-module/issues/61)) ([faffb66](https://github.com/statnett/k3a-prompt-login-module/commit/faffb6669e1684abfba85f347bf56cd3e7911c53))
+
 ## [1.1.4](https://github.com/statnett/k3a-prompt-login-module/compare/v1.1.3...v1.1.4) (2025-03-18)
 
 
