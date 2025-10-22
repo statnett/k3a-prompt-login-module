@@ -80,7 +80,9 @@ implements LoginModule {
     }
 
     private void inputFromWindow() {
-        new UsernamePasswordDialog();
+        if (username == null || password == null) {
+            new UsernamePasswordDialog();
+        }
     }
 
     @Override
