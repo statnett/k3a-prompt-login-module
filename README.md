@@ -15,7 +15,7 @@ will install the jar:
 
 ```shell
 KAFKA_BASEDIR=/opt/kafka
-PROMPT_LOGIN_MODULE_VERSION=1.1.0
+PROMPT_LOGIN_MODULE_VERSION=1.1.5
 curl -sSfo ${KAFKA_BASEDIR}/share/java/kafka/prompt-login-module.jar \
       https://github.com/statnett/k3a-prompt-login-module/releases/download/v${PROMPT_LOGIN_MODULE_VERSION}/k3a-prompt-login-module-${PROMPT_LOGIN_MODULE_VERSION}.jar
 ```
