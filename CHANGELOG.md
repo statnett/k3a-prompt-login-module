@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.6](https://github.com/statnett/k3a-prompt-login-module/compare/v1.1.5...v1.1.6) (2026-02-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.apache.kafka:kafka-clients to v4.1.1 ([#64](https://github.com/statnett/k3a-prompt-login-module/issues/64)) ([bab8060](https://github.com/statnett/k3a-prompt-login-module/commit/bab80600d3a9542625c0993feab24fba4fae7b14))
+
+
+### Documentation
+
+* **README:** use latest release in example ([#72](https://github.com/statnett/k3a-prompt-login-module/issues/72)) ([c1a41d7](https://github.com/statnett/k3a-prompt-login-module/commit/c1a41d73949af5ce688891b12b257c99b531f48b))
+
 ## [1.1.5](https://github.com/statnett/k3a-prompt-login-module/compare/v1.1.4...v1.1.5) (2025-10-22)
 
 
