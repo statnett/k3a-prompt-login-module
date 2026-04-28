@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.7](https://github.com/statnett/k3a-prompt-login-module/compare/v1.1.6...v1.1.7) (2026-04-28)
+
+
+### Documentation
+
+* **README:** use latest version in example ([#84](https://github.com/statnett/k3a-prompt-login-module/issues/84)) ([079875f](https://github.com/statnett/k3a-prompt-login-module/commit/079875fd4f33356374b2e86154e14188a6efd148))
+
 ## [1.1.6](https://github.com/statnett/k3a-prompt-login-module/compare/v1.1.5...v1.1.6) (2026-04-12)
 
 
